@@ -12,7 +12,7 @@ This repository includes the following deliverables:
   [Cyclistic_2019_2020_Cleaned (Google Sheets)](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit#gid=1797029090)
 
 - **SQL Analysis Files:**  
-  SQL queries used for analysis and aggregation (see `SQL Files` folder)
+  SQL queries used for analysis (see `SQL Files` folder)
 
 - **Power BI Dashboard:**  
   - [Power BI Dashboard (.pbix)](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix)  
