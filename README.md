@@ -191,9 +191,14 @@ This project strengthened my ability to work with large datasets, resolve data q
 ---
 
 ## Tools Used
+
 • SQL (Google BigQuery)
+
 • Power BI
+
 • PivotTables
+
 • Excel
+
 • Google Sheets
 
