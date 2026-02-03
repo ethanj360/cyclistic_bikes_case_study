@@ -1,0 +1,9 @@
+usertype,Time,Total Rides,User Type Share %
+Customer,Weekend,31994,44.97
+Customer,Weekday Other Hours,21627,30.4
+Customer,Weekday Evening Rush (4 PM to 7 PM),12716,17.88
+Customer,Weekday Morning Rush (6AM to 9AM),4801,6.75
+Subscriber,Weekday Evening Rush (4 PM to 7 PM),230927,32.07
+Subscriber,Weekday Morning Rush (6AM to 9AM),186474,25.89
+Subscriber,Weekday Other Hours,183166,25.44
+Subscriber,Weekend,119559,16.6

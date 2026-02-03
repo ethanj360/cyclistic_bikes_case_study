@@ -1,0 +1,25 @@
+User Type,Weekend or Weekday,Year,Month,Rides,Average Minutes
+Customer,Weekday,2019,1,2485,31.17
+Customer,Weekend,2019,1,2106,36.52
+Subscriber,Weekday,2019,1,84900,11.2
+Subscriber,Weekend,2019,1,13701,13.04
+Customer,Weekday,2019,2,1697,27.82
+Customer,Weekend,2019,2,930,32.14
+Subscriber,Weekday,2019,2,80671,11.01
+Subscriber,Weekend,2019,2,12851,12.55
+Customer,Weekday,2019,3,9184,36.31
+Customer,Weekend,2019,3,6693,37.36
+Subscriber,Weekday,2019,3,122706,11.12
+Subscriber,Weekend,2019,3,26953,11.92
+Customer,Weekday,2020,1,6096,35.68
+Customer,Weekend,2020,1,1625,45.18
+Subscriber,Weekday,2020,1,122530,10.81
+Subscriber,Weekend,2020,1,13552,10.43
+Customer,Weekday,2020,2,4846,34.72
+Customer,Weekend,2020,2,7951,39.33
+Subscriber,Weekday,2020,2,99386,10.53
+Subscriber,Weekend,2020,2,27310,12.62
+Customer,Weekday,2020,3,14836,31.58
+Customer,Weekend,2020,3,12689,42.45
+Subscriber,Weekday,2020,3,90374,12.45
+Subscriber,Weekend,2020,3,25192,14.64

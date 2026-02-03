@@ -1,0 +1,13 @@
+User Type,Ride Length,rides,User Type %
+Customer,20 to 40 min,22236,31.26
+Customer,10 to 20 min,17839,25.08
+Customer,60+ min,9086,12.77
+Customer,5 to 10 min,8698,12.23
+Customer,40 to 60 min,7239,10.18
+Customer,under 5 min,6040,8.49
+Subscriber,5 to 10 min,266191,36.96
+Subscriber,10 to 20 min,206037,28.61
+Subscriber,under 5 min,160981,22.35
+Subscriber,20 to 40 min,78355,10.88
+Subscriber,40 to 60 min,6367,0.88
+Subscriber,60+ min,2195,0.3

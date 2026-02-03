@@ -1,0 +1,13 @@
+User Type,year,month,rides,Average Minutes,Month Share %
+Customer,2019,1,4591,33.62,4.45
+Subscriber,2019,1,98601,11.46,95.55
+Customer,2019,2,2627,29.35,2.73
+Subscriber,2019,2,93522,11.23,97.27
+Customer,2019,3,15877,36.75,9.59
+Subscriber,2019,3,149659,11.26,90.41
+Customer,2020,1,7721,37.68,5.37
+Subscriber,2020,1,136082,10.77,94.63
+Customer,2020,2,12797,37.58,9.17
+Subscriber,2020,2,126696,10.98,90.83
+Customer,2020,3,27525,36.59,19.24
+Subscriber,2020,3,115566,12.93,80.76
