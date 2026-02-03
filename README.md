@@ -132,29 +132,30 @@ Pivot tables revealed distinct geographic usage patterns:
 
 This insight supports station-based marketing and localized promotions at high-traffic customer locations.
 
-![Top Start Stations: Subscribers](images/pivot_screenshots/subscriber_start_station_pivot.png)
-![Top Start Stations: Customers](images/pivot_screenshots/customer_start_station_pivot.png)
+![Top Start Stations: Subscribers](images/pivot%20screenshots/subscriber_start_station_pivot.png)
+![Top Start Stations: Customers](images/pivot%20screenshots/customer_start_station_pivot.png)
+
 
 ---
 
 #### Ride Length Comparison
 Pivot tables showed that customers consistently take longer rides, while subscribers cluster around shorter trip durations.
 
-![Ride Length Pivot](images/pivot_screenshots/ride_length_pivot.png)
+![Ride Length Pivot](images/pivot%20screenshots/ride_length_pivot.png)
 
 ---
 
 #### Weekday vs Weekend Usage
 Subscribers ride primarily on weekdays, while customers ride disproportionately more on weekends.
 
-![Weekday vs Weekend](images/pivot_screenshots/weekday_vs_weekend.png)
+![Weekday vs Weekend](images/pivot%20screenshots/weekday_vs_weekend.png)
 
 ---
 
 #### Start Time Patterns
 Subscriber rides peak during weekday morning and evening rush hours, while customer rides peak midday and in the afternoon.
 
-![Start Hour Patterns](images/pivot_screenshots/hourly_usage.png)
+![Start Hour Patterns](images/pivot%20screenshots/hourly_usage.png)
 
 ---
 
