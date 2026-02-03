@@ -53,7 +53,7 @@ The following steps were taken to ensure data accuracy, consistency, and privacy
 • Added columns to include weekday/ weekend
 • Merged monthly datasets into a single cleaned file  
 
-Cleaned File: 
+Cleaned File (With Pivot Tables): 
 
 • [Cyclistic_2019_2020_Cleaned](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit?gid=1797029090#gid=1797029090)
 
@@ -99,6 +99,10 @@ Customers are far more likely to take round-trips, suggesting recreational usage
 Before building the SQL queries and Power BI dashboard, exploratory analysis was conducted using pivot tables in Google Sheets to validate trends and uncover behavioral patterns.
 
 These pivot tables helped guide deeper analysis and ensured insights were data driven before visualization.
+
+Here are the full pivot tables for reference/ editing: 
+
+[Cyclistic_data_and_pivot_tables](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit?gid=1797029090#gid=1797029090)
 
 ### Key Exploratory Insights
 
