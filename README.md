@@ -23,7 +23,7 @@ This repository includes the following deliverables:
 ## Dashboard Preview
 Selected views from the final Power BI dashboard highlighting key insights:
 
-![Subscriber vs Customer Overview](images/power%20bi%20screenshots/subscriber_vs_customer.png)
+![Subscriber vs Customer Overview](images/power%20bi%20screenshots/updated_subscriber_vs_customer.png)
 ![Monthly Usage Trends](images/power%20bi%20screenshots/monthly_trends.png)
 
 ---
