@@ -102,9 +102,9 @@ Dashboard includes:
 
 Power BI files:
 
-• [Cyclistic Case Study Visualizations](Cyclistic Case Study Visualizations (Final).pbix)
+• [Cyclistic Case Study Visualizations]([Cyclistic Case Study Visualizations (Final).pbix](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix))
 
-• [Visualizations PDF](Cyclistic Case Study Visualizations (Final).pdf)
+• [Visualizations PDF]([Cyclistic Case Study Visualizations (Final).pdf](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pdf))
 
 ---
 
