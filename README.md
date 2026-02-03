@@ -101,8 +101,8 @@ Dashboard includes:
 • Weekday vs weekend usage patterns  
 
 Power BI files:
-• `power_bi/cyclistic_dashboard.pbix`
-• `power_bi/cyclistic_dashboard.pdf`
+• `Cyclistic Case Study Visualizations (Final).pbix`
+• `Cyclistic Case Study Visualizations (Final).pdf`
 
 ---
 
