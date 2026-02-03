@@ -115,7 +115,8 @@ This revealed that:
 
 This insight supports station based marketing and localized promotions targeting high traffic customer locations.
 
-![Top Start Stations](images/start_station_analysis.png)
+![Top Start Stations: Subscribers](images/pivot screenshots/customer_start_station_pivot.png)
+![Top Start Stations: Customers](images/pivot screenshots/subscriber_start_station_pivot.png)
 
 ---
 
@@ -163,9 +164,9 @@ Dashboard includes:
 
 Power BI Visualization files:
 
-• [Power BI](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix))
+• [Power BI](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix)
 
-• [PDF](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pdf))
+• [PDF](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pdf)
 
 
 ---
