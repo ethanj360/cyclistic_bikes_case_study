@@ -28,6 +28,7 @@ Key questions include:
 Public bike trip data provided by Cyclistic and Divvy.
 
 Data sources:
+
 • [Cyclistic Ride Trip Data 2019 Q1](https://docs.google.com/spreadsheets/d/1winAdsMgjizcwRZF0vy5VHZv9Asw52x4daojS48MsMM/edit?gid=640449855#gid=640449855)
 
 • [Cyclistic Ride Trip Data 2020 Q1](https://docs.google.com/spreadsheets/d/1awxji14ish6Nez8q2vTYvLoW3giU9EacpI2fB7oxFAQ/edit?gid=1797029090#gid=1797029090)
