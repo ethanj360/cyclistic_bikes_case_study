@@ -124,7 +124,7 @@ Full pivot tables are available here:
 - [Cyclistic Data and Pivot Tables](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit#gid=1797029090)
 
 
----
+###Key Insights
 
 #### Top Start Stations by User Type
 Pivot tables revealed distinct geographic usage patterns:
