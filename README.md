@@ -92,7 +92,59 @@ Subscribers show strong weekday morning and evening usage, consistent with commu
 Customers consistently take longer rides, while subscribers favor shorter, more frequent trips.
 
 ### Why they ride
-Customers are far more likely to take round trips, suggesting recreational usage rather than point to point commuting.
+Customers are far more likely to take round-trips, suggesting recreational usage rather than commuting.
+
+## Pivot Tables
+
+Before building the SQL queries and Power BI dashboard, exploratory analysis was conducted using pivot tables in Google Sheets to validate trends and uncover behavioral patterns.
+
+These pivot tables helped guide deeper analysis and ensured insights were data driven before visualization.
+
+### Key Exploratory Insights
+
+#### Top Start Stations by User Type
+Pivot tables were used to identify the most popular start stations for customers, subscribers, and overall riders.
+
+This revealed that:
+• Subscribers tend to start rides near downtown and business districts  
+• Customers frequently start rides near parks, waterfronts, and tourist areas  
+
+This insight supports station based marketing and localized promotions targeting high traffic customer locations.
+
+![Top Start Stations](images/start_station_analysis.png)
+
+---
+
+#### Ride Length Comparison
+Average ride length pivot tables showed a clear behavioral difference:
+• Customers consistently take longer rides  
+• Subscribers favor shorter, repeat trips  
+
+This confirmed the hypothesis that customers use bikes recreationally while subscribers use them for commuting.
+
+![Ride Length Pivot](images/ride_length_distribution.png)
+
+---
+
+#### Weekday vs Weekend Usage
+Pivot tables comparing weekday and weekend usage showed:
+• Subscribers ride primarily on weekdays  
+• Customers ride disproportionately more on weekends  
+
+This insight supports targeting casual riders with weekend focused campaigns and membership offers.
+
+![Weekday vs Weekend](images/weekday_vs_weekend.png)
+
+---
+
+#### Start Time Patterns
+Hourly start time pivots revealed:
+• Subscriber rides peak during weekday morning and evening rush hours  
+• Customer rides peak midday and afternoons  
+
+This helped inform digital advertising timing and messaging strategies.
+
+![Start Hour Patterns](images/hourly_usage.png)
 
 ---
 
@@ -100,11 +152,10 @@ Customers are far more likely to take round trips, suggesting recreational usage
 All analysis results are presented in an interactive Power BI dashboard.
 
 Dashboard includes:
-• Subscriber vs customer usage overview  
-• Monthly usage trends  
-• Ride duration and trip length analysis  
-• Round trip behavior  
-• Weekday vs weekend usage patterns  
+• Subscriber vs. Customer Overview
+• Monthly Usage Trends
+• Ride Behavior and Trip Length
+• Behavioral Usage: Leisure vs. Commuting
 
 Power BI files:
 
@@ -116,9 +167,10 @@ Power BI files:
 ---
 
 ## Recommendations
-1. Target high usage casual riders during weekends and peak seasons with membership promotions.
+1. Target high usage casual riders during weekends and peak seasons with membership promotions. Can also target during non-commuting/rush weekday hours.
 2. Promote annual memberships as cost-effective options for frequent leisure riders.
 3. Use digital ads timed around weekends and warmer months when customer activity peaks.
+4. Target high-traffic customer stations for marketing purposes. 
 
 ---
 
