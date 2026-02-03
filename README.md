@@ -35,6 +35,7 @@ Data sources:
 
 Data covers multiple months of ride history and includes ride timing, duration, user type, and station information.
 
+
 ---
 
 ## Data Cleaning and Preparation
@@ -45,12 +46,17 @@ The following steps were taken to ensure data accuracy, consistency, and privacy
 • Standardized user type values (subscriber vs customer)  
 • Removed personal and sensitive fields such as birth year and gender  
 • Removed unused columns including station IDs, coordinates, and rideable type  
-• Renamed columns for clarity (ride_id to trip_id)  
+• Renamed columns for consistency (ride_id to trip_id)  
 • Recalculated ride duration to ensure consistency  
 • Converted date and time fields to proper formats  
 • Removed invalid rides with negative duration or duration greater than 24 hours  
-• Added derived columns including weekday and AM/PM time segments  
+• Added columns to include weekday/ weekend
 • Merged monthly datasets into a single cleaned file  
+
+Cleaned File: 
+
+• [Cyclistic_2019_2020_Cleaned](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit?gid=1797029090#gid=1797029090)
+
 
 ---
 
@@ -102,15 +108,16 @@ Dashboard includes:
 
 Power BI files:
 
-• [Cyclistic Case Study Visualizations]([Cyclistic Case Study Visualizations (Final).pbix](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix))
+• (https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix))
 
-• [Visualizations PDF]([Cyclistic Case Study Visualizations (Final).pdf](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pdf))
+• (https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pdf))
+
 
 ---
 
 ## Recommendations
 1. Target high usage casual riders during weekends and peak seasons with membership promotions.
-2. Promote annual memberships as cost effective options for frequent leisure riders.
+2. Promote annual memberships as cost-effective options for frequent leisure riders.
 3. Use digital ads timed around weekends and warmer months when customer activity peaks.
 
 ---
