@@ -1,8 +1,32 @@
 # Cyclistic Bike Share Case Study
 
 ## TL;DR
-Analyzed Cyclistic bike share data to compare how casual riders and annual subscribers use bikes differently. Cleaned and merged raw datasets, explored behavior using pivot tables, ran SQL analysis in BigQuery, and built a Power BI dashboard. Found that subscribers primarily use bikes for weekday commuting, while customers ride longer, more recreational trips on weekends and during warmer months. These patterns highlight clear opportunities to convert casual riders into annual members through targeted marketing and station-based promotions.
+Analyzed Cyclistic bike share data to compare how casual riders and annual subscribers use bikes differently. Cleaned and merged raw datasets, explored behavior using pivot tables, ran SQL analysis in BigQuery, and built a Power BI dashboard. Found that subscribers account for approximately 90%+ of total rides and primarily use bikes for weekday commuting, while customers take longer, recreational rides that peak on weekends and during warmer months. These patterns highlight clear opportunities to convert casual riders into annual members through targeted marketing and station-based promotions.
 
+---
+
+## Deliverables
+This repository includes the following deliverables:
+
+- **Cleaned Dataset & Pivot Tables:**  
+  [Cyclistic_2019_2020_Cleaned (Google Sheets)](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit#gid=1797029090)
+
+- **SQL Analysis Files:**  
+  SQL queries used for analysis and aggregation (see `SQL Files` folder)
+
+- **Power BI Dashboard:**  
+  - [Power BI Dashboard (.pbix)](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix)  
+  - [Dashboard PDF](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pdf)
+
+---
+
+## Dashboard Preview
+Selected views from the final Power BI dashboard highlighting key insights:
+
+![Subscriber vs Customer Overview](images/power%20bi%20screenshots/subscriber_vs_customer.png)
+![Monthly Usage Trends](images/power%20bi%20screenshots/monthly_trends.png)
+
+---
 
 ## Overview
 This project analyzes historical bike trip data for Cyclistic, a bike share company, to understand how casual riders and annual members use bikes differently. The primary objective is to identify behavioral patterns that can help Cyclistic convert more casual riders into annual members.
@@ -54,9 +78,6 @@ The following steps were taken to ensure data accuracy, consistency, and privacy
 - Added weekday/weekend indicators  
 - Merged all monthly datasets into a single cleaned file  
 
-Cleaned dataset with pivot tables:  
-- [Cyclistic_2019_2020_Cleaned](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit#gid=1797029090)
-
 ---
 
 ## Key Problems and Solutions
@@ -82,16 +103,16 @@ Datetime fields were explicitly cast and validated prior to loading data into an
 ## Analysis and Key Findings
 
 ### Who rides
-Subscribers account for over 90 percent of total rides, indicating significantly higher overall usage compared to casual riders.
+Subscribers account for approximately 90%+ of total rides, indicating significantly higher overall usage compared to casual riders.
 
 ### When they ride
-Subscribers show strong weekday morning and evening usage, consistent with commuting behavior. Customer usage increases on weekends and during warmer months.
+Subscriber rides peak during weekday morning and evening commute hours, while customer usage increases on weekends and during warmer months.
 
 ### How long they ride
-Customers consistently take longer rides, while subscribers favor shorter, more frequent trips.
+Customers take longer rides on average, while subscribers favor shorter, repeat trips consistent with commuting behavior.
 
 ### Why they ride
-Customers are far more likely to take round trips, suggesting recreational usage rather than point-to-point commuting.
+Customers are substantially more likely to take round trips, indicating recreational usage rather than point-to-point commuting.
 
 ---
 
@@ -99,7 +120,7 @@ Customers are far more likely to take round trips, suggesting recreational usage
 
 Before building SQL queries and the Power BI dashboard, exploratory analysis was conducted using pivot tables in Google Sheets. These pivot tables helped validate trends, uncover behavioral patterns, and guide deeper analysis.
 
-Full pivot tables are available here for reference and editing:
+Full pivot tables are available here:
 - [Cyclistic Data and Pivot Tables](https://docs.google.com/spreadsheets/d/1TSul1ksvHAXaogqjXtFZ5MPEoyNczS6uFo51ncu_AEQ/edit#gid=1797029090)
 
 ### Key Exploratory Insights
@@ -111,66 +132,29 @@ Pivot tables revealed distinct geographic usage patterns:
 
 This insight supports station-based marketing and localized promotions at high-traffic customer locations.
 
-![Top Start Stations: Subscribers](images/pivot%20screenshots/subscriber_start_station_pivot.png)
-![Top Start Stations: Customers](images/pivot%20screenshots/customer_start_station_pivot.png)
+![Top Start Stations: Subscribers](images/pivot_screenshots/subscriber_start_station_pivot.png)
+![Top Start Stations: Customers](images/pivot_screenshots/customer_start_station_pivot.png)
 
 ---
 
 #### Ride Length Comparison
-Average ride length pivot tables showed a clear behavioral difference:
-- Customers consistently take longer rides  
-- Subscribers favor shorter, repeat trips  
+Pivot tables showed that customers consistently take longer rides, while subscribers cluster around shorter trip durations.
 
-This confirms that customers primarily use bikes for leisure, while subscribers use them for commuting.
-
-![Ride Length Pivot](images/pivot%20screenshots/ride_length_pivot.png)
+![Ride Length Pivot](images/pivot_screenshots/ride_length_pivot.png)
 
 ---
 
 #### Weekday vs Weekend Usage
-Pivot tables comparing weekday and weekend usage showed:
-- Subscribers ride primarily on weekdays  
-- Customers ride disproportionately more on weekends  
+Subscribers ride primarily on weekdays, while customers ride disproportionately more on weekends.
 
-This supports targeting casual riders with weekend-focused campaigns and membership offers.
-
-![Weekday vs Weekend](images/pivot%20screenshots/weekday_vs_weekend.png)
+![Weekday vs Weekend](images/pivot_screenshots/weekday_vs_weekend.png)
 
 ---
 
 #### Start Time Patterns
-Hourly start time analysis revealed:
-- Subscriber rides peak during weekday morning and evening rush hours  
-- Customer rides peak during midday and afternoon hours  
+Subscriber rides peak during weekday morning and evening rush hours, while customer rides peak midday and in the afternoon.
 
-This insight helps inform digital advertising timing and messaging strategies.
-
-![Start Hour Patterns](images/pivot%20screenshots/hourly_usage.png)
-
----
-
-## Visualizations and Dashboard
-All analysis results are presented in an interactive Power BI dashboard.
-
-Dashboard includes:
-- Subscriber vs Customer Overview
-    - Shows total ride volume split
-![Subscriber Vs. Customer](images/power%20bi%20screenshots/subscriber_vs_customer.png) 
-
-
-- Monthly Usage Trends
-    - Shows seasonal patterns and riding behavior based on months
- ![Monthly Usage Trends](images/power%20bi%20screenshots/monthly_trends.png)
-
-
-- Ride Behavior and Trip Length
-    - Highlights difference in ride duration 
-- Leisure vs Commuting Usage Patterns
-    - Shows what times and days users prefer
-
-All Power BI files:
-- [Power BI Dashboard (.pbix)](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix)
-- [Dashboard PDF](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pdf)
+![Start Hour Patterns](images/pivot_screenshots/hourly_usage.png)
 
 ---
 
