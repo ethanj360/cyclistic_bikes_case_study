@@ -153,10 +153,20 @@ This insight helps inform digital advertising timing and messaging strategies.
 All analysis results are presented in an interactive Power BI dashboard.
 
 Dashboard includes:
-- Subscriber vs Customer Overview  
-- Monthly Usage Trends  
-- Ride Behavior and Trip Length  
-- Leisure vs Commuting Usage Patterns  
+- Subscriber vs Customer Overview
+    - Shows total ride volume split
+![Subscriber vs Customer Overview](images/power%20bi%20screenshots/subscriber_vs_customer.png)
+
+
+- Monthly Usage Trends
+    - Shows seasonal patterns and riding behavior based on months
+ ![Monthly Usage Trends](images/power%bi%screenshots/monthly_trends.png)
+
+
+- Ride Behavior and Trip Length
+    - Highlights difference in ride duration 
+- Leisure vs Commuting Usage Patterns
+    - Shows what times and days users prefer
 
 Power BI files:
 - [Power BI Dashboard (.pbix)](https://github.com/ethanj360/cyclistic_bikes_case_study/blob/main/Power%20BI%20Files/Cyclistic%20Case%20Study%20Visualizations%20(Final).pbix)
