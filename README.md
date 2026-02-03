@@ -11,15 +11,21 @@ The analysis follows a full data analytics workflow including data cleaning, SQL
 Cyclistic’s marketing team wants to maximize the number of annual memberships.
 
 Key questions include:
+
 • How do annual members and casual riders use Cyclistic bikes differently?
+
 • Why would casual riders purchase an annual membership?
+
 • How can Cyclistic use digital media to influence casual riders to become members?
 
 ---
 
 ## Stakeholders
+
 • Lily Moreno, Director of Marketing  
+
 • Cyclistic Marketing Analytics Team  
+
 • Cyclistic Executive Leadership  
 
 ---
