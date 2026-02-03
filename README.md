@@ -116,7 +116,9 @@ Here are the full pivot tables for reference/ editing:
 Pivot tables were used to identify the most popular start stations for customers, subscribers, and overall riders.
 
 This revealed that:
+
 • Subscribers tend to start rides near downtown and business districts  
+
 • Customers frequently start rides near parks, waterfronts, and tourist areas  
 
 This insight supports station based marketing and localized promotions targeting high traffic customer locations.
@@ -128,7 +130,9 @@ This insight supports station based marketing and localized promotions targeting
 
 #### Ride Length Comparison
 Average ride length pivot tables showed a clear behavioral difference:
+
 • Customers consistently take longer rides  
+
 • Subscribers favor shorter, repeat trips  
 
 This confirmed the hypothesis that customers use bikes recreationally while subscribers use them for commuting.
@@ -139,7 +143,9 @@ This confirmed the hypothesis that customers use bikes recreationally while subs
 
 #### Weekday vs Weekend Usage
 Pivot tables comparing weekday and weekend usage showed:
+
 • Subscribers ride primarily on weekdays  
+
 • Customers ride disproportionately more on weekends  
 
 This insight supports targeting casual riders with weekend focused campaigns and membership offers.
@@ -150,7 +156,9 @@ This insight supports targeting casual riders with weekend focused campaigns and
 
 #### Start Time Patterns
 Hourly start time pivots revealed:
+
 • Subscriber rides peak during weekday morning and evening rush hours  
+
 • Customer rides peak midday and afternoons  
 
 This helped inform digital advertising timing and messaging strategies.
@@ -163,9 +171,13 @@ This helped inform digital advertising timing and messaging strategies.
 All analysis results are presented in an interactive Power BI dashboard.
 
 Dashboard includes:
+
 • Subscriber vs. Customer Overview
+
 • Monthly Usage Trends
+
 • Ride Behavior and Trip Length
+
 • Behavioral Usage: Leisure vs. Commuting
 
 Power BI Visualization files:
