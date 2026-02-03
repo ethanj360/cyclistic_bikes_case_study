@@ -127,7 +127,7 @@ Average ride length pivot tables showed a clear behavioral difference:
 
 This confirmed the hypothesis that customers use bikes recreationally while subscribers use them for commuting.
 
-![Ride Length Pivot](images/ride_length_distribution.png)
+![Ride Length Pivot](images/pivot%20screenshots/ride_length_pivot.png)
 
 ---
 
@@ -138,7 +138,7 @@ Pivot tables comparing weekday and weekend usage showed:
 
 This insight supports targeting casual riders with weekend focused campaigns and membership offers.
 
-![Weekday vs Weekend](images/weekday_vs_weekend.png)
+![Weekday vs Weekend](images/pivot%20screenshots/weekday_vs_weekend.png)
 
 ---
 
@@ -149,7 +149,7 @@ Hourly start time pivots revealed:
 
 This helped inform digital advertising timing and messaging strategies.
 
-![Start Hour Patterns](images/hourly_usage.png)
+![Start Hour Patterns](images/pivot%20screenshots/hourly_usage.png)
 
 ---
 
@@ -180,13 +180,14 @@ Power BI Visualization files:
 ---
 
 ## What I Learned
-This project strengthened my ability to work with large datasets, resolve data quality issues, and translate behavioral patterns into business recommendations. I gained hands on experience with SQL, Power BI, and real world data cleaning challenges while practicing stakeholder focused analysis.
+This project strengthened my ability to work with large datasets, resolve data quality issues, and translate behavioral patterns into business recommendations. I gained hands-on experience with SQL, Power BI, PivotTables, and real-world data-cleaning challenges while practicing stakeholder-focused analysis.
 
 ---
 
 ## Tools Used
 • SQL (Google BigQuery)
-• Google Sheets
 • Power BI
+• PivotTables
 • Excel
+• Google Sheets
 
