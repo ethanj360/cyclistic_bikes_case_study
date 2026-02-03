@@ -169,7 +169,8 @@ Subscriber rides peak during weekday morning and evening rush hours, while custo
 ---
 
 ## What I Learned
-This project strengthened my ability to work with large datasets, resolve real-world data quality issues, and translate behavioral insights into actionable business recommendations. I gained hands-on experience with SQL, Power BI, pivot tables, and stakeholder-focused analysis.
+This project allowed me to work with larger, messier datasets and solve real data quality and business issues. It was my first time building pivot tables at this scale and integrating SQL analysis into Power BI. On that note, it was also my first time using Power BI overall. In the end, I learned how to move from raw data to exploratory analysis, then into SQL and visualizations, and finally turn those insights into clear, business-focused recommendations.
+
 
 ---
 
