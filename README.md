@@ -1,7 +1,7 @@
 # Cyclistic Bike Share Case Study
 
 ## TL;DR
-Analyzed Cyclistic bike share data to compare how casual riders and annual subscribers use bikes differently. Cleaned and merged raw datasets, explored behavior using pivot tables, ran SQL analysis in BigQuery, and built a Power BI dashboard. Found that subscribers account for approximately 90%+ of total rides and primarily use bikes for weekday commuting, while customers take longer, recreational rides that peak on weekends and during warmer months. These patterns highlight clear opportunities to convert casual riders into annual members through targeted marketing and station-based promotions.
+Analyzed Cyclistic bike share data to compare how casual riders and annual subscribers use bikes differently. Cleaned and merged raw datasets, explored behavior using pivot tables, ran SQL analysis in BigQuery, and built a Power BI dashboard. Found that subscribers account for approximately 90% of total rides and primarily use bikes for weekday commuting, while customers take longer, recreational rides that peak on weekends and during warmer months. These patterns highlight clear opportunities to convert casual riders into annual members through targeted marketing and station-based promotions.
 
 ---
 
