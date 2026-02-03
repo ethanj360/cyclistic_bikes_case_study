@@ -115,8 +115,8 @@ This revealed that:
 
 This insight supports station based marketing and localized promotions targeting high traffic customer locations.
 
-![Top Start Stations: Subscribers](images/pivot screenshots/customer_start_station_pivot.png)
-![Top Start Stations: Customers](images/pivot screenshots/subscriber_start_station_pivot.png)
+![Top Start Stations: Subscribers](images/pivot_screenshots/customer_start_station_pivot.png)
+![Top Start Stations: Customers](images/pivot_screenshots/subscriber_start_station_pivot.png)
 
 ---
 
