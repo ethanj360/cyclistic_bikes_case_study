@@ -111,8 +111,8 @@ Pivot tables revealed distinct geographic usage patterns:
 
 This insight supports station-based marketing and localized promotions at high-traffic customer locations.
 
-![Top Start Stations: Subscribers](images/pivot_screenshots/subscriber_start_station_pivot.png)
-![Top Start Stations: Customers](images/pivot_screenshots/customer_start_station_pivot.png)
+![Top Start Stations: Subscribers](images/pivot%20screenshots/subscriber_start_station_pivot.png)
+![Top Start Stations: Customers](images/pivot%20screenshots/customer_start_station_pivot.png)
 
 ---
 
@@ -123,7 +123,7 @@ Average ride length pivot tables showed a clear behavioral difference:
 
 This confirms that customers primarily use bikes for leisure, while subscribers use them for commuting.
 
-![Ride Length Pivot](images/pivot_screenshots/ride_length_pivot.png)
+![Ride Length Pivot](images/pivot%20screenshots/ride_length_pivot.png)
 
 ---
 
@@ -134,7 +134,7 @@ Pivot tables comparing weekday and weekend usage showed:
 
 This supports targeting casual riders with weekend-focused campaigns and membership offers.
 
-![Weekday vs Weekend](images/pivot_screenshots/weekday_vs_weekend.png)
+![Weekday vs Weekend](images/pivot%20screenshots/weekday_vs_weekend.png)
 
 ---
 
@@ -145,7 +145,7 @@ Hourly start time analysis revealed:
 
 This insight helps inform digital advertising timing and messaging strategies.
 
-![Start Hour Patterns](images/pivot_screenshots/hourly_usage.png)
+![Start Hour Patterns](images/pivot%20screenshots/hourly_usage.png)
 
 ---
 
