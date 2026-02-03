@@ -161,10 +161,11 @@ Subscriber rides peak during weekday morning and evening rush hours, while custo
 ---
 
 ## Recommendations
-1. Target high-usage casual riders during weekends and peak seasons with membership promotions.  
-2. Promote annual memberships as cost-effective options for frequent leisure riders.  
-3. Time digital ads around weekends, warmer months, and non-commuting weekday hours.  
-4. Focus marketing efforts on high-traffic customer start stations.
+1. Target high-usage casual riders during weekends and peak riding months, when customer activity is highest.
+2. Promote annual memberships as cost-effective options for frequent leisure riders who take longer trips.
+3. Time digital ads around weekends, warmer months, and non-commuting weekday hours when customers are most active.
+4. Focus marketing efforts on high-traffic customer start stations such as parks, waterfronts, and tourist areas.
+
 
 ---
 
