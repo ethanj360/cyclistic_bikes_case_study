@@ -6,8 +6,8 @@
 **Business Goal**  
 Identify how casual riders and annual members use Cyclistic bikes differently and translate those behavioral differences into strategies that increase annual memberships.
 
-**Who This Is For**  
-Cyclistic’s marketing team, including Lily Moreno and stakeholders responsible for converting casual riders into annual members.
+**Primary Stakeholder**
+Lily Moreno, Director of Marketing, along with Cyclistic’s marketing analytics team focused on converting casual riders into annual members.
 
 **What I Built**
 - A cleaned and consolidated bike trip dataset using Google Sheets
