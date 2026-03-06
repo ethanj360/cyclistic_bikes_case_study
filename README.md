@@ -87,8 +87,7 @@ The final result is a business-focused case study that connects user behavior pa
 
 **How do casual riders and annual members use Cyclistic bikes differently, and how can those differences help increase annual memberships?**
 
-This project reflects how a marketing team would actually use analytics:
-
+Secondary analytical questions:
 - Who rides more often?
 - When do different user types ride?
 - How long do they ride?
