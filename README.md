@@ -4,6 +4,7 @@
 ## TLDR
 
 **Business Goal**  
+
 Identify how casual riders and annual members use Cyclistic bikes differently and translate those behavioral differences into strategies that increase annual memberships.
 
 **Primary Stakeholder**
