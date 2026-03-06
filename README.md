@@ -99,9 +99,6 @@ This project reflects how a marketing team would actually use analytics:
 
 ## Client Context
 
-**Client Type**  
-Bike share company marketing and analytics stakeholders.
-
 **Primary Stakeholders**  
 - Lily Moreno, Director of Marketing  
 - Cyclistic Marketing Analytics Team  
