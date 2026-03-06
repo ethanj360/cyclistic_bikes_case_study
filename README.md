@@ -102,7 +102,6 @@ This project reflects how a marketing team would actually use analytics:
 **Primary Stakeholders**  
 - Lily Moreno, Director of Marketing  
 - Cyclistic Marketing Analytics Team  
-- Cyclistic Executive Leadership  
 
 **Business Objective**  
 Support Cyclistic’s goal of converting more casual riders into annual members through data-backed insights and targeted marketing recommendations.
